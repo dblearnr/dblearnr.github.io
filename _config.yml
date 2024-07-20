@@ -3,3 +3,8 @@ description: homepage
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-so-simple
+
+
+
+gems:
+  - jekyll-mentions
