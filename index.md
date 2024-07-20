@@ -35,7 +35,7 @@ function init() {
 }
 ```
 
-[111](./fold/file1/md)
+[111](./fold/file1.md)
 
 
 
