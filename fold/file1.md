@@ -13,6 +13,10 @@ english
 
 
 
-bbb$1+1=2$ccc
+bbb $1+1=2$ ccc
 
-aaa$$2=2$$ccc
+aaa
+
+$$2=2$$ 
+
+ccc
