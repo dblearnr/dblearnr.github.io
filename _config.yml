@@ -2,7 +2,7 @@ title: test.GitHub.com
 description: homepage
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-so-simple
+remote_theme: jekyll-theme-so-simple
 
 
 
