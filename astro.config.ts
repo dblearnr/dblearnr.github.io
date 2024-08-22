@@ -58,7 +58,7 @@ export default defineConfig({
 function rawFonts(ext: string[]) {
 	return {
 		name: "vite-plugin-raw-fonts",
-		// @ts-expect-error:next-line
+	
 		transform(_, id) {
 			// eslint-disable-next-line
 			if (ext.some((e) => id.endsWith(e))) {
